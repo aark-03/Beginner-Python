@@ -9,4 +9,4 @@ def frame_string(a):
 
 #Gets user input and passes through function
 a = input('Enter string: ').strip()
-print(frame_string(a))
+frame_string(a)
